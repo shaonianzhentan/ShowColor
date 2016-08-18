@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\obj\x86\Debug\ShowColor.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\obj\x86\Debug\ShowColor.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\bin\Debug\ShowColor.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\bin\Debug\ShowColor.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\obj\x86\Debug\ShowColor.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\obj\x86\Debug\ShowColor.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\obj\x86\Debug\ShowColor.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\bin\Debug\ShowColor.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\bin\Debug\GoodHelper.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\bin\Debug\MySql.Data.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ShowColor\ShowColor\obj\x86\Debug\ShowColor.csprojResolveAssemblyReference.cache
